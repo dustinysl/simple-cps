@@ -2,7 +2,7 @@ from tkinter import *
 import time, threading
 
 window = Tk()
-window.title("CPS TEST")
+window.title("CPS TEST 1")
 window.geometry("1000x900")
 
 count = 0
